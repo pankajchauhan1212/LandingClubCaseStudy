@@ -19,7 +19,7 @@
 
 
 ## Conclusions
-- ustomer took loan maximum for debt_consolidation
+- Customer took loan maximum for debt_consolidation
 - Customers has taken more lone for amount 500 to 20000 and if the loan amount is high then there are more chances of defaulters
 - Customer with own home are applying less for loan, in other words the customers with Rented home and Mortagage are more in numbers
 - Customer with the grade A are less likely to default but when the grade is increasing the defaulter percentage is also increasing
